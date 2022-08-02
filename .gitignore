@@ -1,0 +1,15 @@
+# Sphinx Build directory
+build/
+
+# AutoAPI Generated RST
+autoapi/
+
+# LESS output
+source/_static/style.css
+
+# npm packages
+node_modules/
+package-lock.json
+
+# VS Code
+.vscode/
