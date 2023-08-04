@@ -11,5 +11,8 @@ source/_static/style.css
 node_modules/
 package-lock.json
 
+# Virtualenv
+.venv*
+
 # VS Code
 .vscode/
